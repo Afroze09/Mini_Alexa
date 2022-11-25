@@ -1,7 +1,7 @@
 # AIM: THE AIM IS TO CREATE A ALEXA CODE, WHICH CAN HEAR YOU AND TALK YOU BACK. IT CAN DO VARIOUS FUNCTIONALITY LIKE PLAY MUSIC, TELLS JOKES, DATE-TIME AND MANY MORE.
 
 
-import speech_recognition_python as sc  # Used to recognize speech
+import speech_recognition as sc  # Used to recognize speech
 import pyttsx3  # python text to speech(it will reply us back)
 import pywhatkit  # contains a youtube function which plays music
 import datetime  # date and time value
